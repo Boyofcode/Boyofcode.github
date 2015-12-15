@@ -1,0 +1,28 @@
+---
+title: 14.12.15 My Day
+layout: post
+author: Boyofcode
+permalink: /untitled-document/
+source-id: 1m8f1njvycCOHOzMNdxR7NaHHq62AMNlfDlLDPBbB_WY
+published: true
+---
+My day
+
+14th December 2015
+
+I learnt that if you don't put a semicolon in the code on your github website nothing works, I didn?t spend 10 minutes looking through everything because I forgot this...
+
+My teacher did.
+
+	
+
+I am better at computer games than computer coding, at least that is what I think. There are several possibilities as to why I might have missed it, thank goodness I am getting new glasses. B-)
+
+	We also learnt how to change your background to suit you and the writing colour and the title colour as well. 
+
+This is 
+
+Kenty 
+
+Signing out
+
